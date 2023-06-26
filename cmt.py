@@ -1,7 +1,7 @@
 import time
 import random
 
-print('')
+print('~0.00001 btc in day')
 print('')
 print('cryptoMineTermux')
 k = input('ur bitckoin wallet: ')
