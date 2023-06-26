@@ -1,5 +1,6 @@
 import time
 import random
+
 print('created by @kryyyaaaa (telegram)')
 print('~0.00001 btc in day')
 print('')
